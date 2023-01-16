@@ -14,7 +14,11 @@ IP Reporter is an application that helps you find the IP address of your new min
 5 On the miner’s control panel, press and hold the IP Report button for five seconds until it emits a beep.
 
 The miner’s IP address will appear on your computer screen:
+
 ![image](https://user-images.githubusercontent.com/98889119/212697167-853e767d-1c08-4ac4-bef0-f6a7071f8327.png)
 
+Open an Internet browser on your computer (note: supported browsers are Google Chrome and Firefox) and enter the IP address in the address bar of the browser. The miner interface will appear, and you can log in.
 
-![image](https://user-images.githubusercontent.com/98889119/212696816-c2ed565d-b44d-4660-ad58-2f0c5a0eae3b.png)
+The default entry is the username “root” and the password “root”. If you change the password, you must record the new password in a safe place where you can find it. The miner cannot recover the lost password.
+
+Use this version of IP Reporter if you have problems with the latest version of the utility.
